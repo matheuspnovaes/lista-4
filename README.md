@@ -39,4 +39,3 @@ Utilizar a referência no [link](https://stackoverflow.com/a/1521498), para cons
 
 1. Listar qual aeroporto teve o maior tempo total de atrasos (atrasos somente na decolagem).
 
-# lista-4
